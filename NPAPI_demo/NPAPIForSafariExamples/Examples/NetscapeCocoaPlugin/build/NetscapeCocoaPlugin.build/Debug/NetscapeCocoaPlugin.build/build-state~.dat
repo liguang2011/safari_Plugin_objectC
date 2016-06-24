@@ -1,0 +1,165 @@
+TNetscapeCocoaPlugin
+v7
+r0
+t374383250.925332
+cCheck dependencies
+cProcessInfoPlistFile /Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/Debug/NetscapeCocoaPlugin.plugin/Contents/Info.plist Info.plist
+cCompileC build/NetscapeCocoaPlugin.build/Debug/NetscapeCocoaPlugin.build/Objects-normal/x86_64/main.o /Users/apple/Desktop/Examples/NetscapeCocoaPlugin/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NetscapeCocoaPlugin.build/Debug/NetscapeCocoaPlugin.build/Objects-normal/x86_64/MenuHandler.o /Users/apple/Desktop/Examples/NetscapeCocoaPlugin/MenuHandler.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/Debug/NetscapeCocoaPlugin.plugin/Contents/MacOS/NetscapeCocoaPlugin normal x86_64
+cCopyStringsFile /Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/Debug/NetscapeCocoaPlugin.plugin/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cTouch /Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/Debug/NetscapeCocoaPlugin.plugin
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/WebKit.framework/Headers/npapi.h
+c000000004CC4316800000000000069F2
+t1287926120
+s27122
+
+N/System/Library/Frameworks/WebKit.framework/Headers/npfunctions.h
+c000000004CC431680000000000002C42
+t1287926120
+s11330
+
+N/System/Library/Frameworks/WebKit.framework/Headers/npruntime.h
+c000000004CC431680000000000003BFE
+t1287926120
+s15358
+
+N/Users/apple/Desktop/Examples/NetscapeCocoaPlugin/English.lproj/InfoPlist.strings
+c00000000504D58A1000000000000005C
+t1347246241
+s92
+
+N/Users/apple/Desktop/Examples/NetscapeCocoaPlugin/MenuHandler.h
+c00000000504D58A10000000000000A41
+t1347246241
+s2625
+i<Cocoa/Cocoa.h>
+i<WebKit/npfunctions.h>
+
+N/Users/apple/Desktop/Examples/NetscapeCocoaPlugin/MenuHandler.m
+c00000000504D58A10000000000000E54
+t1347246241
+s3668
+i"MenuHandler.h"
+
+N/Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/Debug/NetscapeCocoaPlugin.plugin
+t1352690450
+s102
+
+N/Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/Debug/NetscapeCocoaPlugin.plugin/Contents/Info.plist
+t1352690445
+s1480
+
+N/Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/Debug/NetscapeCocoaPlugin.plugin/Contents/MacOS/NetscapeCocoaPlugin
+t1352690450
+s22456
+
+N/Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/Debug/NetscapeCocoaPlugin.plugin/Contents/Resources/English.lproj/InfoPlist.strings
+t1352690450
+s92
+
+N/Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/NetscapeCocoaPlugin.build/Debug/NetscapeCocoaPlugin.build/Objects-normal/x86_64/MenuHandler.o
+t1352690449
+s27452
+
+N/Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/NetscapeCocoaPlugin.build/Debug/NetscapeCocoaPlugin.build/Objects-normal/x86_64/NetscapeCocoaPlugin.LinkFileList
+c0000000050A06B0D0000000000000125
+t1352690445
+s293
+
+N/Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/NetscapeCocoaPlugin.build/Debug/NetscapeCocoaPlugin.build/Objects-normal/x86_64/main.o
+t1352690449
+s40100
+
+N/Users/apple/Desktop/Examples/NetscapeCocoaPlugin/main.m
+c000000005088E85300000000000033AA
+t1351149651
+s13226
+i<WebKit/npapi.h>
+i<WebKit/npfunctions.h>
+i<WebKit/npruntime.h>
+i<Cocoa/Cocoa.h>
+i"MenuHandler.h"
+
+NInfo.plist
+c00000000504D58A10000000000000475
+t1347246241
+s1141
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies374383245#374383245#0(0"0(0#1#0"8624892320#0"0#
+
+CCompileC build/NetscapeCocoaPlugin.build/Debug/NetscapeCocoaPlugin.build/Objects-normal/x86_64/MenuHandler.o /Users/apple/Desktop/Examples/NetscapeCocoaPlugin/MenuHandler.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s374383245.462138
+e374383249.598081
+r1
+xCompileC
+xbuild/NetscapeCocoaPlugin.build/Debug/NetscapeCocoaPlugin.build/Objects-normal/x86_64/MenuHandler.o
+x/Users/apple/Desktop/Examples/NetscapeCocoaPlugin/MenuHandler.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/apple/Desktop/Examples/NetscapeCocoaPlugin/MenuHandler.m374383245#374383249#0(0"0(0#0#63"/Users/apple/Desktop/Examples/NetscapeCocoaPlugin/MenuHandler.m8618919776#1048"    cd /Users/apple/Desktop/Examples/NetscapeCocoaPlugin    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -mfix-and-continue -gdwarf-2 -I/Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/NetscapeCocoaPlugin.build/Debug/NetscapeCocoaPlugin.build/NetscapeCocoaPlugin.hmap -F/Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/Debug -I/Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/Debug/include -I/Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/NetscapeCocoaPlugin.build/Debug/NetscapeCocoaPlugin.build/DerivedSources/x86_64 -I/Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/NetscapeCocoaPlugin.build/Debug/NetscapeCocoaPlugin.build/DerivedSources -c /Users/apple/Desktop/Examples/NetscapeCocoaPlugin/MenuHandler.m -o /Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/NetscapeCocoaPlugin.build/Debug/NetscapeCocoaPlugin.build/Objects-normal/x86_64/MenuHandler.o0#
+
+CCompileC build/NetscapeCocoaPlugin.build/Debug/NetscapeCocoaPlugin.build/Objects-normal/x86_64/main.o /Users/apple/Desktop/Examples/NetscapeCocoaPlugin/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s374383245.461442
+e374383249.613368
+r1
+xCompileC
+xbuild/NetscapeCocoaPlugin.build/Debug/NetscapeCocoaPlugin.build/Objects-normal/x86_64/main.o
+x/Users/apple/Desktop/Examples/NetscapeCocoaPlugin/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/apple/Desktop/Examples/NetscapeCocoaPlugin/main.m374383245#374383249#0(0"0(0#0#56"/Users/apple/Desktop/Examples/NetscapeCocoaPlugin/main.m8387195846753872896#1034"    cd /Users/apple/Desktop/Examples/NetscapeCocoaPlugin    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -mfix-and-continue -gdwarf-2 -I/Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/NetscapeCocoaPlugin.build/Debug/NetscapeCocoaPlugin.build/NetscapeCocoaPlugin.hmap -F/Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/Debug -I/Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/Debug/include -I/Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/NetscapeCocoaPlugin.build/Debug/NetscapeCocoaPlugin.build/DerivedSources/x86_64 -I/Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/NetscapeCocoaPlugin.build/Debug/NetscapeCocoaPlugin.build/DerivedSources -c /Users/apple/Desktop/Examples/NetscapeCocoaPlugin/main.m -o /Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/NetscapeCocoaPlugin.build/Debug/NetscapeCocoaPlugin.build/Objects-normal/x86_64/main.o0#
+
+CCopyStringsFile /Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/Debug/NetscapeCocoaPlugin.plugin/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s374383250.510543
+e374383250.923124
+r1
+xCopyStringsFile
+x/Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/Debug/NetscapeCocoaPlugin.plugin/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings374383250#374383250#0(0"0(0#0#81"/Users/apple/Desktop/Examples/NetscapeCocoaPlugin/English.lproj/InfoPlist.strings8628446752#403"    cd /Users/apple/Desktop/Examples/NetscapeCocoaPlugin    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/Debug/NetscapeCocoaPlugin.plugin/Contents/Resources/English.lproj0#
+
+CLd /Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/Debug/NetscapeCocoaPlugin.plugin/Contents/MacOS/NetscapeCocoaPlugin normal x86_64
+s374383249.613459
+e374383250.510462
+r1
+xLd
+x/Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/Debug/NetscapeCocoaPlugin.plugin/Contents/MacOS/NetscapeCocoaPlugin
+xnormal
+xx86_64
+lSLF07#2@128"Link /Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/Debug/NetscapeCocoaPlugin.plugin/Contents/MacOS/NetscapeCocoaPlugin374383249#374383250#0(0"0(0#0#0"8629007968#560"    cd /Users/apple/Desktop/Examples/NetscapeCocoaPlugin    /Developer/usr/bin/gcc-4.2 -arch x86_64 -bundle -L/Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/Debug -F/Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/Debug -filelist /Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/NetscapeCocoaPlugin.build/Debug/NetscapeCocoaPlugin.build/Objects-normal/x86_64/NetscapeCocoaPlugin.LinkFileList -framework Cocoa -o /Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/Debug/NetscapeCocoaPlugin.plugin/Contents/MacOS/NetscapeCocoaPlugin0#
+
+CProcessInfoPlistFile /Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/Debug/NetscapeCocoaPlugin.plugin/Contents/Info.plist Info.plist
+s374383245.443368
+e374383245.461358
+r1
+xProcessInfoPlistFile
+x/Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/Debug/NetscapeCocoaPlugin.plugin/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist374383245#374383245#0(0"0(0#0#60"/Users/apple/Desktop/Examples/NetscapeCocoaPlugin/Info.plist8621779296#247"    cd /Users/apple/Desktop/Examples/NetscapeCocoaPlugin    builtin-infoPlistUtility Info.plist -expandbuildsettings -platform macosx -o /Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/Debug/NetscapeCocoaPlugin.plugin/Contents/Info.plist0#
+
+CTouch /Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/Debug/NetscapeCocoaPlugin.plugin
+s374383250.923208
+e374383250.925302
+r1
+xTouch
+x/Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/Debug/NetscapeCocoaPlugin.plugin
+lSLF07#2@94"Touch /Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/Debug/NetscapeCocoaPlugin.plugin374383250#374383250#0(0"0(0#0#0"8616665472#168"    cd /Users/apple/Desktop/Examples/NetscapeCocoaPlugin    /usr/bin/touch -c /Users/apple/Desktop/Examples/NetscapeCocoaPlugin/build/Debug/NetscapeCocoaPlugin.plugin0#
+

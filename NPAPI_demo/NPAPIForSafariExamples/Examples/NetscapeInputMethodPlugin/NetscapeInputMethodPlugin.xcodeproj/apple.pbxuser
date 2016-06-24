@@ -1,0 +1,258 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeArchitecturePreference = i386;
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 18CE52F91670656D00A42AF3 /* Executable */;
+		activeTarget = 8D57630D048677EA00EA77CD /* NetscapeInputMethodPlugin */;
+		breakpoints = (
+			18CE536516706B0C00A42AF3 /* main.mm:128 */,
+		);
+		codeSenseManager = 18CE52D61670637900A42AF3 /* Code sense */;
+		executables = (
+			18CE52F91670656D00A42AF3 /* Executable */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					746,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					858,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					818,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 376464219;
+			PBXWorkspaceStateSaveDate = 376464219;
+		};
+		perUserProjectItems = {
+			18CE52ED1670650700A42AF3 /* PBXTextBookmark */ = 18CE52ED1670650700A42AF3 /* PBXTextBookmark */;
+			18CE53231670672600A42AF3 /* PBXTextBookmark */ = 18CE53231670672600A42AF3 /* PBXTextBookmark */;
+			18CE536016706AF800A42AF3 /* PBXTextBookmark */ = 18CE536016706AF800A42AF3 /* PBXTextBookmark */;
+			18CE53A21670706B00A42AF3 /* XCBuildMessageTextBookmark */ = 18CE53A21670706B00A42AF3 /* XCBuildMessageTextBookmark */;
+			18CE544E16707A0B00A42AF3 /* PBXTextBookmark */ = 18CE544E16707A0B00A42AF3 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 18CE52D51670637900A42AF3 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	18CE52D51670637900A42AF3 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	18CE52D61670637900A42AF3 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	18CE52ED1670650700A42AF3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 18CE52EE1670650700A42AF3 /* npapi.h */;
+		name = "npapi.h: 390";
+		rLen = 36;
+		rLoc = 11182;
+		rType = 0;
+		vrLen = 1377;
+		vrLoc = 10507;
+	};
+	18CE52EE1670650700A42AF3 /* npapi.h */ = {
+		isa = PBXFileReference;
+		name = npapi.h;
+		path = /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Versions/A/Headers/npapi.h;
+		sourceTree = "<absolute>";
+	};
+	18CE52F91670656D00A42AF3 /* Executable */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+			"PBXLSLaunchAction-0" = {
+				PBXLSLaunchAction = 0;
+				PBXLSLaunchStartAction = 1;
+				PBXLSLaunchStdioStyle = 2;
+				PBXLSLaunchStyle = 0;
+				class = PBXLSRunLaunchConfig;
+				commandLineArgs = (
+				);
+				displayName = "Executable Runner";
+				environment = {
+				};
+				identifier = com.apple.Xcode.launch.runConfig;
+				remoteHostInfo = "";
+				startActionInfo = "";
+			};
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		launchableReference = 18CE52FA1670656D00A42AF3 /* Safari.app */;
+		libgmallocEnabled = 0;
+		name = Executable;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	18CE52FA1670656D00A42AF3 /* Safari.app */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = wrapper.application;
+		name = Safari.app;
+		path = /Applications/Safari.app;
+		sourceTree = "<absolute>";
+	};
+	18CE53151670669700A42AF3 /* npapi.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = npapi.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/WebKit.framework/Versions/A/Headers/npapi.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {817, 11232}}";
+			sepNavSelRange = "{13090, 20}";
+			sepNavVisRange = "{12891, 414}";
+		};
+	};
+	18CE53231670672600A42AF3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 18CE53151670669700A42AF3 /* npapi.h */;
+		name = "npapi.h: 445";
+		rLen = 20;
+		rLoc = 13090;
+		rType = 0;
+		vrLen = 957;
+		vrLoc = 12446;
+	};
+	18CE536016706AF800A42AF3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 18CE536116706AF800A42AF3 /* NSEvent.h */;
+		name = "NSEvent.h: 322";
+		rLen = 42;
+		rLoc = 13384;
+		rType = 0;
+		vrLen = 842;
+		vrLoc = 4961;
+	};
+	18CE536116706AF800A42AF3 /* NSEvent.h */ = {
+		isa = PBXFileReference;
+		name = NSEvent.h;
+		path = /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Versions/C/Headers/NSEvent.h;
+		sourceTree = "<absolute>";
+	};
+	18CE536516706B0C00A42AF3 /* main.mm:128 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1A624E580DCBC7F6006898C8 /* main.mm */;
+		functionName = "handleTextFieldKeyDown()";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 128;
+		location = NetscapeInputMethodPlugin;
+		modificationTime = 376466327.394855;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18CE53A21670706B00A42AF3 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Target of assignment not really an lvalue; this will be a hard error in the future";
+		fRef = 1A624E580DCBC7F6006898C8 /* main.mm */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 127;
+		rType = 1;
+	};
+	18CE544E16707A0B00A42AF3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A624E580DCBC7F6006898C8 /* main.mm */;
+		name = "main.mm: 119";
+		rLen = 0;
+		rLoc = 5222;
+		rType = 0;
+		vrLen = 1426;
+		vrLoc = 4855;
+	};
+	1A624E580DCBC7F6006898C8 /* main.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1036, 5395}}";
+			sepNavSelRange = "{5222, 0}";
+			sepNavVisRange = "{4855, 1426}";
+		};
+	};
+	8D57630D048677EA00EA77CD /* NetscapeInputMethodPlugin */ = {
+		activeExec = 0;
+	};
+}

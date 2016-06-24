@@ -1,0 +1,383 @@
+TNetscapeInputMethodPlugin
+v7
+r0
+t376464473.070334
+cCheck dependencies
+cProcessInfoPlistFile /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/Debug/NetscapeInputMethodPlugin.plugin/Contents/Info.plist Info.plist
+cCompileC build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/Objects-normal/ppc/main.o /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/Objects-normal/i386/main.o /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/Objects-normal/ppc64/main.o /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m normal ppc64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/Objects-normal/x86_64/main.o /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCopyStringsFile /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/Debug/NetscapeInputMethodPlugin.plugin/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004C238B9B00000000000000EE
+t1277397915
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npapi.h
+c000000004864C63A0000000000005703
+t1214563898
+s22275
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npfunctions.h
+c000000004864C63C0000000000001F88
+t1214563900
+s8072
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npruntime.h
+c000000004864C63A0000000000003AFB
+t1214563898
+s15099
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/English.lproj/InfoPlist.strings
+c00000000504D58A1000000000000005C
+t1347246241
+s92
+
+N/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/Debug/NetscapeInputMethodPlugin.plugin
+t2
+s0
+
+N/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/Debug/NetscapeInputMethodPlugin.plugin/Contents/Info.plist
+t1354771670
+s1481
+
+N/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/Debug/NetscapeInputMethodPlugin.plugin/Contents/MacOS/NetscapeInputMethodPlugin
+t2
+s0
+
+N/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/Debug/NetscapeInputMethodPlugin.plugin/Contents/Resources/English.lproj/InfoPlist.strings
+t1354771673
+s92
+
+N/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/Objects-normal/i386/NetscapeInputMethodPlugin
+t2
+s0
+
+N/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/Objects-normal/i386/NetscapeInputMethodPlugin.LinkFileList
+c0000000050C02CD6000000000000009F
+t1354771670
+s159
+
+N/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/Objects-normal/ppc/NetscapeInputMethodPlugin
+t2
+s0
+
+N/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/Objects-normal/ppc/NetscapeInputMethodPlugin.LinkFileList
+c0000000050C02CD6000000000000009E
+t1354771670
+s158
+
+N/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/Objects-normal/ppc/main.o
+t2
+s0
+
+N/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/Objects-normal/ppc64/NetscapeInputMethodPlugin
+t2
+s0
+
+N/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/Objects-normal/ppc64/NetscapeInputMethodPlugin.LinkFileList
+c0000000050C02CD600000000000000A0
+t1354771670
+s160
+
+N/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/Objects-normal/ppc64/main.o
+t2
+s0
+
+N/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/Objects-normal/x86_64/NetscapeInputMethodPlugin
+t2
+s0
+
+N/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/Objects-normal/x86_64/NetscapeInputMethodPlugin.LinkFileList
+c0000000050C02CD600000000000000A1
+t1354771670
+s161
+
+N/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m
+c0000000050C02CD60000000000001E3B
+t1354771670
+s7739
+i<WebKit/npapi.h>
+i<WebKit/npfunctions.h>
+i<WebKit/npruntime.h>
+i<Cocoa/Cocoa.h>
+
+NInfo.plist
+c00000000504D58A1000000000000046D
+t1347246241
+s1133
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies376464470#376464470#0(0"0(0#1#0"8655654592#0"0#
+
+CCompileC build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/Objects-normal/i386/main.o /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s376464471.229163
+e376464472.633351
+r0
+xCompileC
+xbuild/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/Objects-normal/i386/main.o
+x/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m: In function 'NPP_New':
+o/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:122: error: 'NPPVpluginDrawingModel' undeclared (first use in this function)
+o/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:122: error: (Each undeclared identifier is reported only once
+o/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:122: error: for each function it appears in.)
+o/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:126: error: 'NPNVsupportsCocoaBool' undeclared (first use in this function)
+o/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m: At top level:
+o/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:185: error: expected declaration specifiers or '...' before 'NPCocoaEvent'
+o/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m: In function 'NPP_HandleEvent':
+o/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:200: error: 'NPCocoaEvent' undeclared (first use in this function)
+o/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:200: error: 'cocoaEvent' undeclared (first use in this function)
+o/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:203: error: 'NPCocoaEventDrawRect' undeclared (first use in this function)
+o/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:204: error: too many arguments to function 'handleDraw'
+o{standard input}:153:non-relocatable subtraction expression, "L_NPP_SetValue$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:153:symbol: "L_NPP_SetValue$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:148:non-relocatable subtraction expression, "L_NPP_GetValue$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:148:symbol: "L_NPP_GetValue$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:143:non-relocatable subtraction expression, "L_NPP_URLNotify$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:143:symbol: "L_NPP_URLNotify$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:138:non-relocatable subtraction expression, "L_NPP_HandleEvent$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:138:symbol: "L_NPP_HandleEvent$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:133:non-relocatable subtraction expression, "L_NPP_Print$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:133:symbol: "L_NPP_Print$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:127:non-relocatable subtraction expression, "L_NPP_Write$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:127:symbol: "L_NPP_Write$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:123:non-relocatable subtraction expression, "L_NPP_WriteReady$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:123:symbol: "L_NPP_WriteReady$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:118:non-relocatable subtraction expression, "L_NPP_StreamAsFile$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:118:symbol: "L_NPP_StreamAsFile$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:113:non-relocatable subtraction expression, "L_NPP_DestroyStream$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:113:symbol: "L_NPP_DestroyStream$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:108:non-relocatable subtraction expression, "L_NPP_NewStream$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:108:symbol: "L_NPP_NewStream$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:103:non-relocatable subtraction expression, "L_NPP_SetWindow$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:103:symbol: "L_NPP_SetWindow$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:98:non-relocatable subtraction expression, "L_NPP_Destroy$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:98:symbol: "L_NPP_Destroy$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:93:non-relocatable subtraction expression, "L_NPP_New$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:93:symbol: "L_NPP_New$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:55:non-relocatable subtraction expression, "L_browser$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:55:symbol: "L_browser$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_browser$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_NPP_New$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_NPP_Destroy$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_NPP_SetWindow$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_NPP_NewStream$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_NPP_DestroyStream$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_NPP_StreamAsFile$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_NPP_WriteReady$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_NPP_Write$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_NPP_Print$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_NPP_HandleEvent$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_NPP_URLNotify$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_NPP_GetValue$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_NPP_SetValue$non_lazy_ptr
+lSLF07#2@70"Compile /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464471#376464472#0(5578"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m: In function 'NPP_New':/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:122: error: 'NPPVpluginDrawingModel' undeclared (first use in this function)/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:122: error: (Each undeclared identifier is reported only once/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:122: error: for each function it appears in.)/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:126: error: 'NPNVsupportsCocoaBool' undeclared (first use in this function)/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m: At top level:/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:185: error: expected declaration specifiers or '...' before 'NPCocoaEvent'/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m: In function 'NPP_HandleEvent':/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:200: error: 'NPCocoaEvent' undeclared (first use in this function)/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:200: error: 'cocoaEvent' undeclared (first use in this function)/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:203: error: 'NPCocoaEventDrawRect' undeclared (first use in this function)/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:204: error: too many arguments to function 'handleDraw'{standard input}:153:non-relocatable subtraction expression, "L_NPP_SetValue$non_lazy_ptr" minus "L00000000002$pb"{standard input}:153:symbol: "L_NPP_SetValue$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:148:non-relocatable subtraction expression, "L_NPP_GetValue$non_lazy_ptr" minus "L00000000002$pb"{standard input}:148:symbol: "L_NPP_GetValue$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:143:non-relocatable subtraction expression, "L_NPP_URLNotify$non_lazy_ptr" minus "L00000000002$pb"{standard input}:143:symbol: "L_NPP_URLNotify$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:138:non-relocatable subtraction expression, "L_NPP_HandleEvent$non_lazy_ptr" minus "L00000000002$pb"{standard input}:138:symbol: "L_NPP_HandleEvent$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:133:non-relocatable subtraction expression, "L_NPP_Print$non_lazy_ptr" minus "L00000000002$pb"{standard input}:133:symbol: "L_NPP_Print$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:127:non-relocatable subtraction expression, "L_NPP_Write$non_lazy_ptr" minus "L00000000002$pb"{standard input}:127:symbol: "L_NPP_Write$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:123:non-relocatable subtraction expression, "L_NPP_WriteReady$non_lazy_ptr" minus "L00000000002$pb"{standard input}:123:symbol: "L_NPP_WriteReady$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:118:non-relocatable subtraction expression, "L_NPP_StreamAsFile$non_lazy_ptr" minus "L00000000002$pb"{standard input}:118:symbol: "L_NPP_StreamAsFile$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:113:non-relocatable subtraction expression, "L_NPP_DestroyStream$non_lazy_ptr" minus "L00000000002$pb"{standard input}:113:symbol: "L_NPP_DestroyStream$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:108:non-relocatable subtraction expression, "L_NPP_NewStream$non_lazy_ptr" minus "L00000000002$pb"{standard input}:108:symbol: "L_NPP_NewStream$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:103:non-relocatable subtraction expression, "L_NPP_SetWindow$non_lazy_ptr" minus "L00000000002$pb"{standard input}:103:symbol: "L_NPP_SetWindow$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:98:non-relocatable subtraction expression, "L_NPP_Destroy$non_lazy_ptr" minus "L00000000002$pb"{standard input}:98:symbol: "L_NPP_Destroy$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:93:non-relocatable subtraction expression, "L_NPP_New$non_lazy_ptr" minus "L00000000002$pb"{standard input}:93:symbol: "L_NPP_New$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:55:non-relocatable subtraction expression, "L_browser$non_lazy_ptr" minus "L00000000001$pb"{standard input}:55:symbol: "L_browser$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_browser$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_NPP_New$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_NPP_Destroy$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_NPP_SetWindow$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_NPP_NewStream$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_NPP_DestroyStream$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_NPP_StreamAsFile$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_NPP_WriteReady$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_NPP_Write$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_NPP_Print$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_NPP_HandleEvent$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_NPP_URLNotify$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_NPP_GetValue$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_NPP_SetValue$non_lazy_ptr8(4@64"'NPPVpluginDrawingModel' undeclared (first use in this function)376464472#87#140#0(6@62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464470#122#0#122#0#43"'*' undeclared (first use in this function)0(4@63"'NPNVsupportsCocoaBool' undeclared (first use in this function)376464472#461#139#0(6@62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464470#126#0#126#0#43"'*' undeclared (first use in this function)0(23@13"At top level:376464472#600#78#0(6@62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464470#0#0#0#0#0"0(4@62"Expected declaration specifiers or '...' before 'NPCocoaEvent'376464472#678#138#0(6@62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464470#185#0#185#0#19"expected * before *0(4@54"'NPCocoaEvent' undeclared (first use in this function)376464472#911#130#0(6@62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464470#200#0#200#0#43"'*' undeclared (first use in this function)0(4@52"'cocoaEvent' undeclared (first use in this function)376464472#1041#128#0(6@62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464470#200#0#200#0#43"'*' undeclared (first use in this function)0(4@62"'NPCocoaEventDrawRect' undeclared (first use in this function)376464472#1169#138#0(6@62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464470#203#0#203#0#43"'*' undeclared (first use in this function)0(4@43"Too many arguments to function 'handleDraw'376464472#1307#119#0(6@62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464470#204#0#204#0#0"0(0#0#62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m8631708768#1206"    cd /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/NetscapeInputMethodPlugin.hmap -F/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/Debug -I/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/Debug/include -I/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/DerivedSources/i386 -I/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/DerivedSources -c /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m -o /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/Objects-normal/i386/main.o1#
+
+CCompileC build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/Objects-normal/ppc/main.o /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s376464470.852798
+e376464471.228828
+r0
+xCompileC
+xbuild/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/Objects-normal/ppc/main.o
+x/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464470#376464471#0(8674"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m: In function 'NPP_New':/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:122: error: 'NPPVpluginDrawingModel' undeclared (first use in this function)/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:122: error: (Each undeclared identifier is reported only once/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:122: error: for each function it appears in.)/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:126: error: 'NPNVsupportsCocoaBool' undeclared (first use in this function)/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m: At top level:/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:185: error: expected declaration specifiers or '...' before 'NPCocoaEvent'/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m: In function 'NPP_HandleEvent':/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:200: error: 'NPCocoaEvent' undeclared (first use in this function)/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:200: error: 'cocoaEvent' undeclared (first use in this function)/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:203: error: 'NPCocoaEventDrawRect' undeclared (first use in this function)/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:204: error: too many arguments to function 'handleDraw'{standard input}:165:non-relocatable subtraction expression, "L_NPP_SetValue$non_lazy_ptr" minus "L00000000002$pb"{standard input}:165:symbol: "L_NPP_SetValue$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:164:non-relocatable subtraction expression, "L_NPP_SetValue$non_lazy_ptr" minus "L00000000002$pb"{standard input}:164:symbol: "L_NPP_SetValue$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:160:non-relocatable subtraction expression, "L_NPP_GetValue$non_lazy_ptr" minus "L00000000002$pb"{standard input}:160:symbol: "L_NPP_GetValue$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:159:non-relocatable subtraction expression, "L_NPP_GetValue$non_lazy_ptr" minus "L00000000002$pb"{standard input}:159:symbol: "L_NPP_GetValue$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:155:non-relocatable subtraction expression, "L_NPP_URLNotify$non_lazy_ptr" minus "L00000000002$pb"{standard input}:155:symbol: "L_NPP_URLNotify$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:154:non-relocatable subtraction expression, "L_NPP_URLNotify$non_lazy_ptr" minus "L00000000002$pb"{standard input}:154:symbol: "L_NPP_URLNotify$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:150:non-relocatable subtraction expression, "L_NPP_HandleEvent$non_lazy_ptr" minus "L00000000002$pb"{standard input}:150:symbol: "L_NPP_HandleEvent$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:149:non-relocatable subtraction expression, "L_NPP_HandleEvent$non_lazy_ptr" minus "L00000000002$pb"{standard input}:149:symbol: "L_NPP_HandleEvent$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:145:non-relocatable subtraction expression, "L_NPP_Print$non_lazy_ptr" minus "L00000000002$pb"{standard input}:145:symbol: "L_NPP_Print$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:144:non-relocatable subtraction expression, "L_NPP_Print$non_lazy_ptr" minus "L00000000002$pb"{standard input}:144:symbol: "L_NPP_Print$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:139:non-relocatable subtraction expression, "L_NPP_Write$non_lazy_ptr" minus "L00000000002$pb"{standard input}:139:symbol: "L_NPP_Write$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:138:non-relocatable subtraction expression, "L_NPP_Write$non_lazy_ptr" minus "L00000000002$pb"{standard input}:138:symbol: "L_NPP_Write$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:135:non-relocatable subtraction expression, "L_NPP_WriteReady$non_lazy_ptr" minus "L00000000002$pb"{standard input}:135:symbol: "L_NPP_WriteReady$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:134:non-relocatable subtraction expression, "L_NPP_WriteReady$non_lazy_ptr" minus "L00000000002$pb"{standard input}:134:symbol: "L_NPP_WriteReady$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:130:non-relocatable subtraction expression, "L_NPP_StreamAsFile$non_lazy_ptr" minus "L00000000002$pb"{standard input}:130:symbol: "L_NPP_StreamAsFile$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:129:non-relocatable subtraction expression, "L_NPP_StreamAsFile$non_lazy_ptr" minus "L00000000002$pb"{standard input}:129:symbol: "L_NPP_StreamAsFile$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:125:non-relocatable subtraction expression, "L_NPP_DestroyStream$non_lazy_ptr" minus "L00000000002$pb"{standard input}:125:symbol: "L_NPP_DestroyStream$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:124:non-relocatable subtraction expression, "L_NPP_DestroyStream$non_lazy_ptr" minus "L00000000002$pb"{standard input}:124:symbol: "L_NPP_DestroyStream$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:120:non-relocatable subtraction expression, "L_NPP_NewStream$non_lazy_ptr" minus "L00000000002$pb"{standard input}:120:symbol: "L_NPP_NewStream$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:119:non-relocatable subtraction expression, "L_NPP_NewStream$non_lazy_ptr" minus "L00000000002$pb"{standard input}:119:symbol: "L_NPP_NewStream$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:115:non-relocatable subtraction expression, "L_NPP_SetWindow$non_lazy_ptr" minus "L00000000002$pb"{standard input}:115:symbol: "L_NPP_SetWindow$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:114:non-relocatable subtraction expression, "L_NPP_SetWindow$non_lazy_ptr" minus "L00000000002$pb"{standard input}:114:symbol: "L_NPP_SetWindow$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:110:non-relocatable subtraction expression, "L_NPP_Destroy$non_lazy_ptr" minus "L00000000002$pb"{standard input}:110:symbol: "L_NPP_Destroy$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:109:non-relocatable subtraction expression, "L_NPP_Destroy$non_lazy_ptr" minus "L00000000002$pb"{standard input}:109:symbol: "L_NPP_Destroy$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:105:non-relocatable subtraction expression, "L_NPP_New$non_lazy_ptr" minus "L00000000002$pb"{standard input}:105:symbol: "L_NPP_New$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:104:non-relocatable subtraction expression, "L_NPP_New$non_lazy_ptr" minus "L00000000002$pb"{standard input}:104:symbol: "L_NPP_New$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:61:non-relocatable subtraction expression, "L_browser$non_lazy_ptr" minus "L00000000001$pb"{standard input}:61:symbol: "L_browser$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:60:non-relocatable subtraction expression, "L_browser$non_lazy_ptr" minus "L00000000001$pb"{standard input}:60:symbol: "L_browser$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_browser$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_NPP_New$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_NPP_Destroy$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_NPP_SetWindow$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_NPP_NewStream$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_NPP_DestroyStream$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_NPP_StreamAsFile$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_NPP_WriteReady$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_NPP_Write$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_NPP_Print$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_NPP_HandleEvent$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_NPP_URLNotify$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_NPP_GetValue$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_NPP_SetValue$non_lazy_ptr8(4@64"'NPPVpluginDrawingModel' undeclared (first use in this function)376464471#87#140#0(6@62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464470#122#0#122#0#43"'*' undeclared (first use in this function)0(4@63"'NPNVsupportsCocoaBool' undeclared (first use in this function)376464471#461#139#0(6@62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464470#126#0#126#0#43"'*' undeclared (first use in this function)0(23@13"At top level:376464471#600#78#0(6@62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464470#0#0#0#0#0"0(4@62"Expected declaration specifiers or '...' before 'NPCocoaEvent'376464471#678#138#0(6@62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464470#185#0#185#0#19"expected * before *0(4@54"'NPCocoaEvent' undeclared (first use in this function)376464471#911#130#0(6@62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464470#200#0#200#0#43"'*' undeclared (first use in this function)0(4@52"'cocoaEvent' undeclared (first use in this function)376464471#1041#128#0(6@62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464470#200#0#200#0#43"'*' undeclared (first use in this function)0(4@62"'NPCocoaEventDrawRect' undeclared (first use in this function)376464471#1169#138#0(6@62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464470#203#0#203#0#43"'*' undeclared (first use in this function)0(4@43"Too many arguments to function 'handleDraw'376464471#1307#119#0(6@62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464470#204#0#204#0#0"0(0#0#62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m7023439688936420352#1213"    cd /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/NetscapeInputMethodPlugin.hmap -F/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/Debug -I/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/Debug/include -I/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/DerivedSources/ppc -I/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/DerivedSources -c /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m -o /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/Objects-normal/ppc/main.o1#
+
+CCompileC build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/Objects-normal/ppc64/main.o /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m normal ppc64 objective-c com.apple.compilers.gcc.4_2
+s376464471.272328
+e376464471.875734
+r0
+xCompileC
+xbuild/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/Objects-normal/ppc64/main.o
+x/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m
+xnormal
+xppc64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:34:
+o/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npapi.h:99:2: error: #error 64-bit Netscape plug-ins are not supported on Mac OS X
+oIn file included from /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npfunctions.h:4,
+o                 from /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:35:
+o/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npruntime.h:79:2: error: #error 64-bit Netscape plug-ins are not supported on Mac OS X
+oIn file included from /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:35:
+o/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npfunctions.h:8:2: error: #error 64-bit Netscape plug-ins are not supported on Mac OS X
+o/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m: In function 'NPP_New':
+o/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:122: error: 'NPPVpluginDrawingModel' undeclared (first use in this function)
+o/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:122: error: (Each undeclared identifier is reported only once
+o/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:122: error: for each function it appears in.)
+o/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:126: error: 'NPNVsupportsCocoaBool' undeclared (first use in this function)
+o/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m: At top level:
+o/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:185: error: expected declaration specifiers or '...' before 'NPCocoaEvent'
+o/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m: In function 'NPP_HandleEvent':
+o/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:200: error: 'NPCocoaEvent' undeclared (first use in this function)
+o/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:200: error: 'cocoaEvent' undeclared (first use in this function)
+o/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:203: error: 'NPCocoaEventDrawRect' undeclared (first use in this function)
+o/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:204: error: too many arguments to function 'handleDraw'
+o{standard input}:165:non-relocatable subtraction expression, "L_NPP_SetValue$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:165:symbol: "L_NPP_SetValue$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:164:non-relocatable subtraction expression, "L_NPP_SetValue$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:164:symbol: "L_NPP_SetValue$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:160:non-relocatable subtraction expression, "L_NPP_GetValue$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:160:symbol: "L_NPP_GetValue$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:159:non-relocatable subtraction expression, "L_NPP_GetValue$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:159:symbol: "L_NPP_GetValue$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:155:non-relocatable subtraction expression, "L_NPP_URLNotify$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:155:symbol: "L_NPP_URLNotify$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:154:non-relocatable subtraction expression, "L_NPP_URLNotify$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:154:symbol: "L_NPP_URLNotify$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:150:non-relocatable subtraction expression, "L_NPP_HandleEvent$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:150:symbol: "L_NPP_HandleEvent$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:149:non-relocatable subtraction expression, "L_NPP_HandleEvent$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:149:symbol: "L_NPP_HandleEvent$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:145:non-relocatable subtraction expression, "L_NPP_Print$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:145:symbol: "L_NPP_Print$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:144:non-relocatable subtraction expression, "L_NPP_Print$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:144:symbol: "L_NPP_Print$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:140:non-relocatable subtraction expression, "L_NPP_Write$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:140:symbol: "L_NPP_Write$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:139:non-relocatable subtraction expression, "L_NPP_Write$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:139:symbol: "L_NPP_Write$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:135:non-relocatable subtraction expression, "L_NPP_WriteReady$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:135:symbol: "L_NPP_WriteReady$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:134:non-relocatable subtraction expression, "L_NPP_WriteReady$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:134:symbol: "L_NPP_WriteReady$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:130:non-relocatable subtraction expression, "L_NPP_StreamAsFile$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:130:symbol: "L_NPP_StreamAsFile$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:129:non-relocatable subtraction expression, "L_NPP_StreamAsFile$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:129:symbol: "L_NPP_StreamAsFile$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:125:non-relocatable subtraction expression, "L_NPP_DestroyStream$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:125:symbol: "L_NPP_DestroyStream$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:124:non-relocatable subtraction expression, "L_NPP_DestroyStream$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:124:symbol: "L_NPP_DestroyStream$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:120:non-relocatable subtraction expression, "L_NPP_NewStream$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:120:symbol: "L_NPP_NewStream$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:119:non-relocatable subtraction expression, "L_NPP_NewStream$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:119:symbol: "L_NPP_NewStream$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:115:non-relocatable subtraction expression, "L_NPP_SetWindow$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:115:symbol: "L_NPP_SetWindow$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:114:non-relocatable subtraction expression, "L_NPP_SetWindow$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:114:symbol: "L_NPP_SetWindow$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:110:non-relocatable subtraction expression, "L_NPP_Destroy$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:110:symbol: "L_NPP_Destroy$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:109:non-relocatable subtraction expression, "L_NPP_Destroy$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:109:symbol: "L_NPP_Destroy$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:105:non-relocatable subtraction expression, "L_NPP_New$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:105:symbol: "L_NPP_New$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:104:non-relocatable subtraction expression, "L_NPP_New$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:104:symbol: "L_NPP_New$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:61:non-relocatable subtraction expression, "L_browser$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:61:symbol: "L_browser$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:60:non-relocatable subtraction expression, "L_browser$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:60:symbol: "L_browser$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_browser$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_NPP_New$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_NPP_Destroy$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_NPP_SetWindow$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_NPP_NewStream$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_NPP_DestroyStream$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_NPP_StreamAsFile$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_NPP_WriteReady$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_NPP_Write$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_NPP_Print$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_NPP_HandleEvent$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_NPP_URLNotify$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_NPP_GetValue$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_NPP_SetValue$non_lazy_ptr
+lSLF07#2@70"Compile /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464471#376464471#0(9566"In file included from /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:34:/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npapi.h:99:2: error: #error 64-bit Netscape plug-ins are not supported on Mac OS XIn file included from /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npfunctions.h:4,                 from /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:35:/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npruntime.h:79:2: error: #error 64-bit Netscape plug-ins are not supported on Mac OS XIn file included from /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:35:/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npfunctions.h:8:2: error: #error 64-bit Netscape plug-ins are not supported on Mac OS X/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m: In function 'NPP_New':/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:122: error: 'NPPVpluginDrawingModel' undeclared (first use in this function)/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:122: error: (Each undeclared identifier is reported only once/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:122: error: for each function it appears in.)/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:126: error: 'NPNVsupportsCocoaBool' undeclared (first use in this function)/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m: At top level:/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:185: error: expected declaration specifiers or '...' before 'NPCocoaEvent'/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m: In function 'NPP_HandleEvent':/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:200: error: 'NPCocoaEvent' undeclared (first use in this function)/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:200: error: 'cocoaEvent' undeclared (first use in this function)/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:203: error: 'NPCocoaEventDrawRect' undeclared (first use in this function)/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:204: error: too many arguments to function 'handleDraw'{standard input}:165:non-relocatable subtraction expression, "L_NPP_SetValue$non_lazy_ptr" minus "L00000000002$pb"{standard input}:165:symbol: "L_NPP_SetValue$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:164:non-relocatable subtraction expression, "L_NPP_SetValue$non_lazy_ptr" minus "L00000000002$pb"{standard input}:164:symbol: "L_NPP_SetValue$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:160:non-relocatable subtraction expression, "L_NPP_GetValue$non_lazy_ptr" minus "L00000000002$pb"{standard input}:160:symbol: "L_NPP_GetValue$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:159:non-relocatable subtraction expression, "L_NPP_GetValue$non_lazy_ptr" minus "L00000000002$pb"{standard input}:159:symbol: "L_NPP_GetValue$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:155:non-relocatable subtraction expression, "L_NPP_URLNotify$non_lazy_ptr" minus "L00000000002$pb"{standard input}:155:symbol: "L_NPP_URLNotify$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:154:non-relocatable subtraction expression, "L_NPP_URLNotify$non_lazy_ptr" minus "L00000000002$pb"{standard input}:154:symbol: "L_NPP_URLNotify$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:150:non-relocatable subtraction expression, "L_NPP_HandleEvent$non_lazy_ptr" minus "L00000000002$pb"{standard input}:150:symbol: "L_NPP_HandleEvent$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:149:non-relocatable subtraction expression, "L_NPP_HandleEvent$non_lazy_ptr" minus "L00000000002$pb"{standard input}:149:symbol: "L_NPP_HandleEvent$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:145:non-relocatable subtraction expression, "L_NPP_Print$non_lazy_ptr" minus "L00000000002$pb"{standard input}:145:symbol: "L_NPP_Print$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:144:non-relocatable subtraction expression, "L_NPP_Print$non_lazy_ptr" minus "L00000000002$pb"{standard input}:144:symbol: "L_NPP_Print$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:140:non-relocatable subtraction expression, "L_NPP_Write$non_lazy_ptr" minus "L00000000002$pb"{standard input}:140:symbol: "L_NPP_Write$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:139:non-relocatable subtraction expression, "L_NPP_Write$non_lazy_ptr" minus "L00000000002$pb"{standard input}:139:symbol: "L_NPP_Write$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:135:non-relocatable subtraction expression, "L_NPP_WriteReady$non_lazy_ptr" minus "L00000000002$pb"{standard input}:135:symbol: "L_NPP_WriteReady$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:134:non-relocatable subtraction expression, "L_NPP_WriteReady$non_lazy_ptr" minus "L00000000002$pb"{standard input}:134:symbol: "L_NPP_WriteReady$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:130:non-relocatable subtraction expression, "L_NPP_StreamAsFile$non_lazy_ptr" minus "L00000000002$pb"{standard input}:130:symbol: "L_NPP_StreamAsFile$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:129:non-relocatable subtraction expression, "L_NPP_StreamAsFile$non_lazy_ptr" minus "L00000000002$pb"{standard input}:129:symbol: "L_NPP_StreamAsFile$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:125:non-relocatable subtraction expression, "L_NPP_DestroyStream$non_lazy_ptr" minus "L00000000002$pb"{standard input}:125:symbol: "L_NPP_DestroyStream$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:124:non-relocatable subtraction expression, "L_NPP_DestroyStream$non_lazy_ptr" minus "L00000000002$pb"{standard input}:124:symbol: "L_NPP_DestroyStream$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:120:non-relocatable subtraction expression, "L_NPP_NewStream$non_lazy_ptr" minus "L00000000002$pb"{standard input}:120:symbol: "L_NPP_NewStream$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:119:non-relocatable subtraction expression, "L_NPP_NewStream$non_lazy_ptr" minus "L00000000002$pb"{standard input}:119:symbol: "L_NPP_NewStream$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:115:non-relocatable subtraction expression, "L_NPP_SetWindow$non_lazy_ptr" minus "L00000000002$pb"{standard input}:115:symbol: "L_NPP_SetWindow$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:114:non-relocatable subtraction expression, "L_NPP_SetWindow$non_lazy_ptr" minus "L00000000002$pb"{standard input}:114:symbol: "L_NPP_SetWindow$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:110:non-relocatable subtraction expression, "L_NPP_Destroy$non_lazy_ptr" minus "L00000000002$pb"{standard input}:110:symbol: "L_NPP_Destroy$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:109:non-relocatable subtraction expression, "L_NPP_Destroy$non_lazy_ptr" minus "L00000000002$pb"{standard input}:109:symbol: "L_NPP_Destroy$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:105:non-relocatable subtraction expression, "L_NPP_New$non_lazy_ptr" minus "L00000000002$pb"{standard input}:105:symbol: "L_NPP_New$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:104:non-relocatable subtraction expression, "L_NPP_New$non_lazy_ptr" minus "L00000000002$pb"{standard input}:104:symbol: "L_NPP_New$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:61:non-relocatable subtraction expression, "L_browser$non_lazy_ptr" minus "L00000000001$pb"{standard input}:61:symbol: "L_browser$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:60:non-relocatable subtraction expression, "L_browser$non_lazy_ptr" minus "L00000000001$pb"{standard input}:60:symbol: "L_browser$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_browser$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_NPP_New$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_NPP_Destroy$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_NPP_SetWindow$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_NPP_NewStream$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_NPP_DestroyStream$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_NPP_StreamAsFile$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_NPP_WriteReady$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_NPP_Write$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_NPP_Print$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_NPP_HandleEvent$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_NPP_URLNotify$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_NPP_GetValue$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_NPP_SetValue$non_lazy_ptr11(4@61"#error 64-bit Netscape plug-ins are not supported on Mac OS X376464471#89#165#2(7@84"In file included from /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464471#18446744073709551615#0#0(6@62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464470#34#0#34#0#0"0(13@154"#error 64-bit Netscape plug-ins are not supported on Mac OS X in /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npapi.h376464471#18446744073709551615#0#0(6@89"/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npapi.h236256698#99#0#99#0#0"0(6@89"/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npapi.h236256698#99#0#99#0#8"#error *0(4@61"#error 64-bit Netscape plug-ins are not supported on Mac OS X376464471#464#169#3(7@84"In file included from /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464471#18446744073709551615#0#0(6@62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464470#35#0#35#0#0"0(7@117"In file included from /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npfunctions.h376464471#18446744073709551615#0#0(6@95"/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npfunctions.h236256700#4#0#4#0#0"0(13@158"#error 64-bit Netscape plug-ins are not supported on Mac OS X in /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npruntime.h376464471#18446744073709551615#0#0(6@93"/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npruntime.h236256698#79#0#79#0#0"0(6@93"/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npruntime.h236256698#79#0#79#0#8"#error *0(4@61"#error 64-bit Netscape plug-ins are not supported on Mac OS X376464471#722#170#2(7@84"In file included from /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464471#18446744073709551615#0#0(6@62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464470#35#0#35#0#0"0(13@160"#error 64-bit Netscape plug-ins are not supported on Mac OS X in /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npfunctions.h376464471#18446744073709551615#0#0(6@95"/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npfunctions.h236256700#8#0#8#0#0"0(6@95"/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npfunctions.h236256700#8#0#8#0#8"#error *0(4@64"'NPPVpluginDrawingModel' undeclared (first use in this function)376464471#979#140#0(6@62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464470#122#0#122#0#43"'*' undeclared (first use in this function)0(4@63"'NPNVsupportsCocoaBool' undeclared (first use in this function)376464471#1353#139#0(6@62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464470#126#0#126#0#43"'*' undeclared (first use in this function)0(23@13"At top level:376464471#1492#78#0(6@62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464470#0#0#0#0#0"0(4@62"Expected declaration specifiers or '...' before 'NPCocoaEvent'376464471#1570#138#0(6@62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464470#185#0#185#0#19"expected * before *0(4@54"'NPCocoaEvent' undeclared (first use in this function)376464471#1803#130#0(6@62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464470#200#0#200#0#43"'*' undeclared (first use in this function)0(4@52"'cocoaEvent' undeclared (first use in this function)376464471#1933#128#0(6@62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464470#200#0#200#0#43"'*' undeclared (first use in this function)0(4@62"'NPCocoaEventDrawRect' undeclared (first use in this function)376464471#2061#138#0(6@62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464470#203#0#203#0#43"'*' undeclared (first use in this function)0(4@43"Too many arguments to function 'handleDraw'376464471#2199#119#0(6@62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464470#204#0#204#0#0"0(0#0#62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m8656666752#1219"    cd /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc64 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/NetscapeInputMethodPlugin.hmap -F/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/Debug -I/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/Debug/include -I/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/DerivedSources/ppc64 -I/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/DerivedSources -c /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m -o /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/Objects-normal/ppc64/main.o1#
+
+CCompileC build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/Objects-normal/x86_64/main.o /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s376464471.875816
+e376464472.646820
+r0
+xCompileC
+xbuild/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/Objects-normal/x86_64/main.o
+x/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:34:
+o/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npapi.h:99:2: error: #error 64-bit Netscape plug-ins are not supported on Mac OS X
+oIn file included from /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npfunctions.h:4,
+o                 from /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:35:
+o/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npruntime.h:79:2: error: #error 64-bit Netscape plug-ins are not supported on Mac OS X
+oIn file included from /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:35:
+o/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npfunctions.h:8:2: error: #error 64-bit Netscape plug-ins are not supported on Mac OS X
+o/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m: In function 'NPP_New':
+o/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:122: error: 'NPPVpluginDrawingModel' undeclared (first use in this function)
+o/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:122: error: (Each undeclared identifier is reported only once
+o/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:122: error: for each function it appears in.)
+o/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:126: error: 'NPNVsupportsCocoaBool' undeclared (first use in this function)
+o/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m: At top level:
+o/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:185: error: expected declaration specifiers or '...' before 'NPCocoaEvent'
+o/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m: In function 'NPP_HandleEvent':
+o/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:200: error: 'NPCocoaEvent' undeclared (first use in this function)
+o/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:200: error: 'cocoaEvent' undeclared (first use in this function)
+o/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:203: error: 'NPCocoaEventDrawRect' undeclared (first use in this function)
+o/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:204: error: too many arguments to function 'handleDraw'
+lSLF07#2@70"Compile /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464471#376464472#0(2318"In file included from /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:34:/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npapi.h:99:2: error: #error 64-bit Netscape plug-ins are not supported on Mac OS XIn file included from /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npfunctions.h:4,                 from /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:35:/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npruntime.h:79:2: error: #error 64-bit Netscape plug-ins are not supported on Mac OS XIn file included from /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:35:/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npfunctions.h:8:2: error: #error 64-bit Netscape plug-ins are not supported on Mac OS X/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m: In function 'NPP_New':/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:122: error: 'NPPVpluginDrawingModel' undeclared (first use in this function)/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:122: error: (Each undeclared identifier is reported only once/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:122: error: for each function it appears in.)/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:126: error: 'NPNVsupportsCocoaBool' undeclared (first use in this function)/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m: At top level:/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:185: error: expected declaration specifiers or '...' before 'NPCocoaEvent'/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m: In function 'NPP_HandleEvent':/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:200: error: 'NPCocoaEvent' undeclared (first use in this function)/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:200: error: 'cocoaEvent' undeclared (first use in this function)/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:203: error: 'NPCocoaEventDrawRect' undeclared (first use in this function)/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m:204: error: too many arguments to function 'handleDraw'11(4@61"#error 64-bit Netscape plug-ins are not supported on Mac OS X376464472#89#165#2(7@84"In file included from /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464472#18446744073709551615#0#0(6@62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464470#34#0#34#0#0"0(13@154"#error 64-bit Netscape plug-ins are not supported on Mac OS X in /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npapi.h376464472#18446744073709551615#0#0(6@89"/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npapi.h236256698#99#0#99#0#0"0(6@89"/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npapi.h236256698#99#0#99#0#8"#error *0(4@61"#error 64-bit Netscape plug-ins are not supported on Mac OS X376464472#464#169#3(7@84"In file included from /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464472#18446744073709551615#0#0(6@62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464470#35#0#35#0#0"0(7@117"In file included from /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npfunctions.h376464472#18446744073709551615#0#0(6@95"/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npfunctions.h236256700#4#0#4#0#0"0(13@158"#error 64-bit Netscape plug-ins are not supported on Mac OS X in /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npruntime.h376464472#18446744073709551615#0#0(6@93"/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npruntime.h236256698#79#0#79#0#0"0(6@93"/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npruntime.h236256698#79#0#79#0#8"#error *0(4@61"#error 64-bit Netscape plug-ins are not supported on Mac OS X376464472#722#170#2(7@84"In file included from /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464472#18446744073709551615#0#0(6@62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464470#35#0#35#0#0"0(13@160"#error 64-bit Netscape plug-ins are not supported on Mac OS X in /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npfunctions.h376464472#18446744073709551615#0#0(6@95"/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npfunctions.h236256700#8#0#8#0#0"0(6@95"/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/npfunctions.h236256700#8#0#8#0#8"#error *0(4@64"'NPPVpluginDrawingModel' undeclared (first use in this function)376464472#979#140#0(6@62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464470#122#0#122#0#43"'*' undeclared (first use in this function)0(4@63"'NPNVsupportsCocoaBool' undeclared (first use in this function)376464472#1353#139#0(6@62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464470#126#0#126#0#43"'*' undeclared (first use in this function)0(23@13"At top level:376464472#1492#78#0(6@62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464470#0#0#0#0#0"0(4@62"Expected declaration specifiers or '...' before 'NPCocoaEvent'376464472#1570#138#0(6@62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464470#185#0#185#0#19"expected * before *0(4@54"'NPCocoaEvent' undeclared (first use in this function)376464472#1803#130#0(6@62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464470#200#0#200#0#43"'*' undeclared (first use in this function)0(4@52"'cocoaEvent' undeclared (first use in this function)376464472#1933#128#0(6@62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464470#200#0#200#0#43"'*' undeclared (first use in this function)0(4@62"'NPCocoaEventDrawRect' undeclared (first use in this function)376464472#2061#138#0(6@62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464470#203#0#203#0#43"'*' undeclared (first use in this function)0(4@43"Too many arguments to function 'handleDraw'376464472#2199#119#0(6@62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m376464470#204#0#204#0#0"0(0#0#62"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m8625659712#1212"    cd /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/NetscapeInputMethodPlugin.hmap -F/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/Debug -I/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/Debug/include -I/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/DerivedSources/x86_64 -I/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/DerivedSources -c /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/main.m -o /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/Objects-normal/x86_64/main.o1#
+
+CCopyStringsFile /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/Debug/NetscapeInputMethodPlugin.plugin/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s376464472.646902
+e376464473.070257
+r1
+xCopyStringsFile
+x/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/Debug/NetscapeInputMethodPlugin.plugin/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings376464472#376464473#0(0"0(0#0#87"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/English.lproj/InfoPlist.strings8645066048#421"    cd /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/Debug/NetscapeInputMethodPlugin.plugin/Contents/Resources/English.lproj0#
+
+CCreateUniversalBinary /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/Debug/NetscapeInputMethodPlugin.plugin/Contents/MacOS/NetscapeInputMethodPlugin normal "ppc i386 ppc64 x86_64"
+r0
+
+CLd /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/Objects-normal/i386/NetscapeInputMethodPlugin normal i386
+r0
+
+CLd /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/Objects-normal/ppc/NetscapeInputMethodPlugin normal ppc
+r0
+
+CLd /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/Objects-normal/ppc64/NetscapeInputMethodPlugin normal ppc64
+r0
+
+CLd /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/NetscapeInputMethodPlugin.build/Debug/NetscapeInputMethodPlugin.build/Objects-normal/x86_64/NetscapeInputMethodPlugin normal x86_64
+r0
+
+CProcessInfoPlistFile /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/Debug/NetscapeInputMethodPlugin.plugin/Contents/Info.plist Info.plist
+s376464470.799877
+e376464470.852704
+r1
+xProcessInfoPlistFile
+x/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/Debug/NetscapeInputMethodPlugin.plugin/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist376464470#376464470#0(0"0(0#0#66"/Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/Info.plist8645092224#265"    cd /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin    builtin-infoPlistUtility Info.plist -expandbuildsettings -platform macosx -o /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/Debug/NetscapeInputMethodPlugin.plugin/Contents/Info.plist0#
+
+CTouch /Users/apple/Desktop/Examples/NetscapeInputMethodPlugin/build/Debug/NetscapeInputMethodPlugin.plugin
+r0
+

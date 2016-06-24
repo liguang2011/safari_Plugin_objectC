@@ -1,0 +1,85 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeTarget = 8D57630D048677EA00EA77CD /* NetscapeCoreAnimationPlugin */;
+		codeSenseManager = 18AD03091643BA54009D758D /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					10,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 373537333;
+			PBXWorkspaceStateSaveDate = 373537333;
+		};
+		perUserProjectItems = {
+			18AD030C1643BA5B009D758D /* PBXTextBookmark */ = 18AD030C1643BA5B009D758D /* PBXTextBookmark */;
+			18AD030D1643BA5B009D758D /* PBXTextBookmark */ = 18AD030D1643BA5B009D758D /* PBXTextBookmark */;
+		};
+		sourceControlManager = 18AD03081643BA54009D758D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	18AD03081643BA54009D758D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	18AD03091643BA54009D758D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	18AD030C1643BA5B009D758D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A624E580DCBC7F6006898C8 /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2461;
+		vrLoc = 1295;
+	};
+	18AD030D1643BA5B009D758D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A624E580DCBC7F6006898C8 /* main.m */;
+		name = "main.m: 85";
+		rLen = 643;
+		rLoc = 4078;
+		rType = 0;
+		vrLen = 1630;
+		vrLoc = 4752;
+	};
+	1A624E580DCBC7F6006898C8 /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {894, 2886}}";
+			sepNavSelRange = "{4078, 643}";
+			sepNavVisRange = "{4752, 1630}";
+		};
+	};
+	8D57630D048677EA00EA77CD /* NetscapeCoreAnimationPlugin */ = {
+		activeExec = 0;
+	};
+}
